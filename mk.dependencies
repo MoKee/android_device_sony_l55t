@@ -1,7 +1,7 @@
 [
   {
-    "repository": "android_vendor_sony_z3",
-    "target_path": "vendor/sony/z3"
+    "repository": "android_vendor_sony_l55t",
+    "target_path": "vendor/sony/l55t"
   },
   {
     "repository": "android_device_sony_shinano-common",
